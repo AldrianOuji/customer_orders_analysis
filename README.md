@@ -46,6 +46,10 @@ customer-orders-analysis/
 ├── sql/
 │   └── 02_customer_order_analysis.sql
 │
+├── dashboard/
+│    │── customer_orders_dashboard.pbix
+│    └── dashboard_preview.pdf
+│
 │
 │── data/
 │    │── customers_cleaned_data.csv
@@ -68,6 +72,24 @@ The data model illustrates how the project's tables are organized and related. I
 <p align="center">
   <img src="images/Data_Model.png" alt="Customer Orders Analysis Data Model" width="100%">
 </p>
+
+
+## Power BI Report
+
+The Power BI report provides interactive views of e-commerce performance, customer behavior, and product sales.
+
+[Download the Power BI Report (.pbix)](dashboard/customer_orders_dashboard.pbix)
+
+Download the Power BI file from the repository and open it using Microsoft Power BI Desktop.
+
+
+## PDF Dashboard Report
+
+A PDF version of the dashboard is provided for users who want to review the visualizations without opening Power BI Desktop.
+
+[View or Download the Dashboard PDF](./customer_orders_analysis.pdf)
+
+The PDF contains static dashboard pages and is intended for convenient review and presentation. Use the Power BI report for interactive exploration, where supported.
 
 
 ## Dashboard Previews
