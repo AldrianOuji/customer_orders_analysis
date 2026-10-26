@@ -65,7 +65,7 @@ Data Model
 
 The data model illustrates how the project's tables are organized and related. It helps explain the relationships between customers, orders, and any other tables used in the analysis.
 
-![Data Interaction Model](images/Data_Model.PNG)
+![Data Interaction Model](images/Data_Model.png)
 
 
 ## Dashboard Previews
