@@ -60,25 +60,12 @@ customer-orders-analysis/
         └── product_sales_analytics.jpg
 ```
 
-Project Banner
-
-The project banner serves as the visual introduction to the repository. It can include the project title, SQL and Power BI branding, and a short description of the business analytics focus.
-
-
-
-Image filename: project_banner.png
-
-Upload location: images/project_banner.jpg
 
 Data Model
 
 The data model illustrates how the project's tables are organized and related. It helps explain the relationships between customers, orders, and any other tables used in the analysis.
 
-
-
-Image filename: data-model.png
-
-Upload location: images/Data_Model.png
+![Data Interaction Model](images/Data_Model.PNG)
 
 
 ## Dashboard Previews
