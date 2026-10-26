@@ -61,11 +61,13 @@ customer-orders-analysis/
 ```
 
 
-Data Model
+## Data Model
 
-The data model illustrates how the project's tables are organized and related. It helps explain the relationships between customers, orders, and any other tables used in the analysis.
+The data model illustrates how the project's tables are organized and related. It helps explain the relationships between customers, orders, and any other tables used in the analysis
 
-![Data Interaction Model](images/Data_Model.png)
+<p align="center">
+  <img src="images/Data_model.png" alt="Customer Orders Analysis Data Model" width="100%">
+</p>
 
 
 ## Dashboard Previews
@@ -82,7 +84,9 @@ This dashboard provides a high-level overview of business performance, including
 
 **Dashboard Screenshot**
 
-![E-Commerce Performance Overview](images/Overview_tab.jpg)
+<p align="center">
+  <img src="images/Overview_tab.png" alt="E-Commerce Performance Overview Dashboard" width="100%">
+</p>
 
 
 
@@ -102,7 +106,9 @@ This dashboard examines customer behavior, spending patterns, customer value seg
 
 **Dashboard Screenshot**
 
-![Customer Analytics Dashboard](images/customer_analytics_tab.jpg)
+<p align="center">
+  <img src="images/customer_analytics_tab.jpg" alt="Customer Analytics Dashboard" width="100%">
+</p>
 
 
 
@@ -122,7 +128,9 @@ This dashboard focuses on product category performance, revenue contribution, or
 
 **Dashboard Screenshot**
 
-![Product and Sales Analytics Dashboard](images/product_sales_analytics.jpg)
+<p align="center">
+  <img src="images/product_sales_analytics.jpg" alt="Product and Sales Analytics Dashboard" width="100%">
+</p>
 
 
 ## SQL Analysis
