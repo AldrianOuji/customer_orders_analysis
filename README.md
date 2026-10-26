@@ -1,7 +1,7 @@
 # Customer Orders Analysis
 
 <p align="center">
-  <img src="images/project_banner.png" alt="Customer Orders Analysis Project Banner" width="100%">
+  <img src="images/project_banner.jpg" alt="Customer Orders Analysis Project Banner" width="100%">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ customer-orders-analysis/
 └── images/
         ├── Overview_tab.png
         ├── customer_analytics_tab.jpg
-        ├── projwct_banner.png
+        ├── projwct_banner.jpg
         ├── Data_model.png
         └── product_sales_analytics.jpg
 ```
@@ -68,7 +68,7 @@ The project banner serves as the visual introduction to the repository. It can i
 
 Image filename: project_banner.png
 
-Upload location: images/project_banner.png
+Upload location: images/project_banner.jpg
 
 Data Model
 
