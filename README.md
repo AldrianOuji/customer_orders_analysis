@@ -66,7 +66,7 @@ customer-orders-analysis/
 The data model illustrates how the project's tables are organized and related. It helps explain the relationships between customers, orders, and any other tables used in the analysis
 
 <p align="center">
-  <img src="images/Data_model.png" alt="Customer Orders Analysis Data Model" width="100%">
+  <img src="images/Data_Model.png" alt="Customer Orders Analysis Data Model" width="100%">
 </p>
 
 
@@ -85,7 +85,7 @@ This dashboard provides a high-level overview of business performance, including
 **Dashboard Screenshot**
 
 <p align="center">
-  <img src="images/Overview_tab.png" alt="E-Commerce Performance Overview Dashboard" width="100%">
+  <img src="images/Overview_tab.jpg" alt="E-Commerce Performance Overview Dashboard" width="100%">
 </p>
 
 
