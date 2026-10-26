@@ -87,7 +87,7 @@ Download the Power BI file from the repository and open it using Microsoft Power
 
 A PDF version of the dashboard is provided for users who want to review the visualizations without opening Power BI Desktop.
 
-[View or Download the Dashboard PDF](dashboard/customer_preview.pdf)
+[View or Download the Dashboard PDF](dashboard/dashboard_preview.pdf)
 
 The PDF contains static dashboard pages and is intended for convenient review and presentation. Use the Power BI report for interactive exploration, where supported.
 
